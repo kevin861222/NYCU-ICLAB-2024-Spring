@@ -95,7 +95,7 @@
 ##### 技能樹
 - 熟爛 Verilog 
 - 略懂 System Verilog 
-  -- 整學期會有兩個Lab是用 System Verilog
+  <br>-- 整學期會有兩個Lab是用 System Verilog
 - 熟爛 Python 
   -- Python 在這門課主要是用來產 pattern 或是爆裂 case 
 - 略懂 shell script 
