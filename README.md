@@ -68,7 +68,7 @@
 ##### 個人成績資訊
 - 原始分數：87.14
 - 等第：A+
-- RANK：23 / 127
+- 結算名次：23 / 127
   
 |      | Lab01  | Lab02 | Lab03 | Lab04 | Lab05 | Lab06 |OT |    MIDTERM PROJECT | MID EXAM |
 | ------------|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|:--------------:|:-----:|:-------:|
@@ -110,24 +110,26 @@
 |Lecture13|APR II: IR-Drop Analysis|
 
 ## 實驗總覽
-| Lab | Topic | Link |
+| Lab | Topic |
 |:--|:--:|
-|Lab01|Code Calculator||
-|Lab02|||
-|Lab03|||
-|Lab04|||
-|Lab05|||
-|Lab06|||
-|Lab07|||
-|Lab08|||
-|Lab09|||
-|Lab10|||
-|Lab11|||
-|Lab12|||
-|Lab13|||
-|Online Test|||
-|Midtern Project|||
-|Final Project|||
+|[Lab01][1]|Code Calculator|
+|Lab02|Enigma Machine|
+|Lab03|AXI-SPI DataBridge|
+|Lab04|Convolution Neural Network|
+|Lab05|Matrix convolution, max pooling and transposed convolution|
+|Lab06|Huffman Code Operation|
+|Lab07|Matrix Multiplication with Clock Domain Crossing|
+|Lab08|Design: Tea House|
+|Lab09|Verification: Tea House|
+|Lab10|Formal Verification|
+|Lab11|Low power design: Siamese Neural Network|
+|Lab12|APR: Matrix convolution, max pooling and transposed convolution|
+|Lab13|Train Tour APRII|
+|Online Test|Infix to prefix convertor and prefix evaluation|
+|Midtern Project|Maze Router Accelerator|
+|Final Project|single core CPU|
+
+    [1]: http://google.com/        "Mycode/Lab01"
 ## 前言
 雖然網路上已經有非常非常多關於這門課程的評價以及心得文，但是我覺得我的身份比較特別，再加上這一路上踩過不少別人沒有遇到的坑，所以打算用不同的角度詮釋一下這門課程的價值，也記錄一下不是天才的我是怎麼活過這學期的，姑且算是一個窺視孔，讓有遠大抱負的學弟妹們可以好好衡量自己是否真的準備好了，以及理性的評估這門課程的價值。
 
