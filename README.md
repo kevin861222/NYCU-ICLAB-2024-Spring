@@ -8,7 +8,10 @@
 ## 資料夾指引
 ``` bash
 +--- ~
-|   README.md （心得）
+|   README.md
+|
++---心得
+|   |   README.md 
 |
 +---修課指南
 |   |   README.md 
