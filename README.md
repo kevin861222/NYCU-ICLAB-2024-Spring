@@ -42,9 +42,11 @@
 
 ## 目錄
 1. [摘要](#摘要)
-2. [前言](#前言)
-3. [背景](#背景)
-4. [主觀聲明](#主觀聲明)
+2. [課程內容](#課程內容)
+3. [實驗總覽](#實驗總覽)
+4. [前言](#前言)
+5. [背景](#背景)
+6. [主觀聲明](#主觀聲明)
 
 ## 摘要
 ##### 該學期資訊
@@ -90,6 +92,24 @@
 ##### 個人成績長條圖
 ![grade長條圖](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/assets/79128379/40c8b7ed-87d4-40f6-8a21-9755878a9d02)
 
+## 課程內容
+| Lecture | Topic |
+|:--|:--:|
+|Lecture01|Cell Based Design Methodology + Verilog Combinational Circuit Programming|
+|Lecture02|Finite State Machine + Verilog Sequential Circuit Programming |
+|Lecture03|Verification & Simulation + Verilog Test Bench Programming |
+|Lecture04|Sequential Circuit Design II (STA + Pipeline) |
+|Lecture05|Memory & Coding Style (Memory Compiler + SuperLint)|
+|Lecture06|Synthesis Methodology (Design Compiler + IP Design)|
+|Lecture07|Timing: Cross Clock Domain + Synthesis Static Time Analysis|
+|Lecture08|System Verilog - RTL Design|
+|Lecture09|System Verilog - Verification|
+|Lecture10|System Verilog - Formal Verification|
+|Lecture11|Power Analysis & Low Power Design|
+|Lecture12|APR I : From RTL to GDSII|
+|Lecture13|APR II: IR-Drop Analysis|
+
+## 實驗總覽
 
 
 ## 前言
