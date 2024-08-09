@@ -112,7 +112,7 @@
 ## 實驗總覽
 | Lab | Topic |
 |:--|:--:|
-|[Lab01][1]|Code Calculator|
+|[Lab01][#1]|Code Calculator|
 |Lab02|Enigma Machine|
 |Lab03|AXI-SPI DataBridge|
 |Lab04|Convolution Neural Network|
