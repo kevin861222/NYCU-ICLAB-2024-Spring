@@ -110,22 +110,22 @@
 |Lecture13|APR II: IR-Drop Analysis|
 
 ## 實驗總覽
-| Lab | Topic |
-|:--|:--:|
-|[Lab01][#1]|Code Calculator|
-|Lab02|Enigma Machine|
-|Lab03|AXI-SPI DataBridge|
-|Lab04|Convolution Neural Network|
-|Lab05|Matrix convolution, max pooling and transposed convolution|
-|Lab06|Huffman Code Operation|
-|Lab07|Matrix Multiplication with Clock Domain Crossing|
-|Lab08|Design: Tea House|
-|Lab09|Verification: Tea House|
-|Lab10|Formal Verification|
-|Lab11|Low power design: Siamese Neural Network|
-|Lab12|APR: Matrix convolution, max pooling and transposed convolution|
-|Lab13|Train Tour APRII|
-|Online Test|Infix to prefix convertor and prefix evaluation|
+| Lab | Topic | Link |
+|:--|:--:|:--|
+|Lab01|Code Calculator|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab065> "Mycode/Lab01")|
+|Lab02|Enigma Machine|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab02_iclab065> "Mycode/Lab02")|
+|Lab03|AXI-SPI DataBridge|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab03_iclab065> "Mycode/Lab03")|
+|Lab04|Convolution Neural Network|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab04_iclab065> "Mycode/Lab04")|
+|Lab05|Matrix convolution, max pooling and transposed convolution|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab05_iclab065> "Mycode/Lab05")|
+|Lab06|Huffman Code Operation|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab06_iclab065> "Mycode/Lab06")|
+|Lab07|Matrix Multiplication with Clock Domain Crossing|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab07_iclab065> "Mycode/Lab07")|
+|Lab08|Design: Tea House|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab08_iclab065> "Mycode/Lab08")|
+|Lab09|Verification: Tea House|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab09_iclab065> "Mycode/Lab09")|
+|Lab10|Formal Verification|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab10_iclab065> "Mycode/Lab10")|
+|Lab11|Low power design: Siamese Neural Network|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab11_iclab065> "Mycode/Lab11")|
+|Lab12|APR: Matrix convolution, max pooling and transposed convolution|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab12_iclab065> "Mycode/Lab12")|
+|Lab13|Train Tour APRII|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab13_iclab065> "Mycode/Lab13")|
+|Online Test|Infix to prefix convertor and prefix evaluation|[OT_iclab065](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/OT_iclab065)|
 |Midtern Project|Maze Router Accelerator|
 |Final Project|single core CPU|
 
