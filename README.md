@@ -28,7 +28,7 @@
 |   +---03_Violation解法
 |   |   |   README.md
 |               
-\---My_code
+\---Mycode
     |   README.md
     +---Lab01
     +---Lab02
