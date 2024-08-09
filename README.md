@@ -105,10 +105,10 @@
 - 張添烜教授數位電路與系統的YT影片
 
 ##### 技能樹
-- 熟爛 Verilog 
+- 通透 Verilog 
 - 略懂 System Verilog 
   -- 整學期會有兩個Lab是用 System Verilog
-- 熟爛 Python 
+- 通透 Python 
   -- Python 在這門課主要是用來產 pattern 或是爆裂 case 
 - 略懂 shell script 
   -- 可以寫腳本加速驗證流程，不用每次都一條一條跑，省超級多時間
