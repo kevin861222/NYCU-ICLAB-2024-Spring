@@ -125,11 +125,10 @@
 |Lab11|Low power design: Siamese Neural Network|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab11_iclab065> "Mycode/Lab11")|
 |Lab12|APR: Matrix convolution, max pooling and transposed convolution|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab12_iclab065> "Mycode/Lab12")|
 |Lab13|Train Tour APRII|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab13_iclab065> "Mycode/Lab13")|
-|Online Test|Infix to prefix convertor and prefix evaluation|[OT_iclab065](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/OT_iclab065)|
-|Midtern Project|Maze Router Accelerator|
-|Final Project|single core CPU|
+|Online Test|Infix to prefix convertor and prefix evaluation|[Link](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/OT_iclab065)|
+|Midtern Project|Maze Router Accelerator|[Link](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Midterm_Project_iclab065)|
+|Final Project|single core CPU|[Link](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project)|
 
-    [1]: http://google.com/        "Mycode/Lab01"
 ## 前言
 雖然網路上已經有非常非常多關於這門課程的評價以及心得文，但是我覺得我的身份比較特別，再加上這一路上踩過不少別人沒有遇到的坑，所以打算用不同的角度詮釋一下這門課程的價值，也記錄一下不是天才的我是怎麼活過這學期的，姑且算是一個窺視孔，讓有遠大抱負的學弟妹們可以好好衡量自己是否真的準備好了，以及理性的評估這門課程的價值。
 
