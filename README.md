@@ -109,24 +109,24 @@
 |Lecture13|APR II: IR-Drop Analysis|
 
 ## 實驗總覽
-| Lab | Topic | RANK |
-|:--|:--:|:--|
-|[Lab01](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab065> "Mycode/Lab01")|Code Calculator|21|
-|[Lab02](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab02_iclab065> "Mycode/Lab02")|Enigma Machine|16|
-|[Lab03](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab03_iclab065> "Mycode/Lab03")|AXI-SPI DataBridge|NA|
-|[Lab04](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab04_iclab065> "Mycode/Lab04")|Convolution Neural Network|22|
-|[Lab05](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab05_iclab065> "Mycode/Lab05")|Matrix convolution, max pooling and transposed convolution|15|
-|[Lab06](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab06_iclab065> "Mycode/Lab06")|Huffman Code Operation|60|
-|[Lab07](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab07_iclab065> "Mycode/Lab07")|Matrix Multiplication with Clock Domain Crossing|58|
-|[Lab08](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab08_iclab065> "Mycode/Lab08")|Design: Tea House|NA|
-|[Lab09](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab09_iclab065> "Mycode/Lab09")|Verification: Tea House|1|
-|[Lab10](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab10_iclab065> "Mycode/Lab10")|Formal Verification|NA|
-|[Lab11](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab11_iclab065> "Mycode/Lab11")|Low power design: Siamese Neural Network|[4|
-|[Lab12](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab12_iclab065> "Mycode/Lab12")|APR: Matrix convolution, max pooling and transposed convolution|3|
-|[Lab13](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab13_iclab065> "Mycode/Lab13")|Train Tour APRII|NA|
-|[Online Test](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/OT_iclab065> "Mycode/OT")|Infix to prefix convertor and prefix evaluation|NA|
-|[Midtern Project](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Midterm_Project_iclab065> "Mycode/MP")|Maze Router Accelerator|53|
-|[Final Project](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project> "Mycode/FP")|single core CPU|3|
+| Lab | Topic | RANK | Pass Rate |
+|:--|:--:|:--:|:--:|
+|[Lab01](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab065> "Mycode/Lab01")|Code Calculator|21|89.76%|
+|[Lab02](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab02_iclab065> "Mycode/Lab02")|Enigma Machine|16|85.83%|
+|[Lab03](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab03_iclab065> "Mycode/Lab03")|AXI-SPI DataBridge|NA|75.59%|
+|[Lab04](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab04_iclab065> "Mycode/Lab04")|Convolution Neural Network|22|74.80%|
+|[Lab05](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab05_iclab065> "Mycode/Lab05")|Matrix convolution, max pooling and transposed convolution|15|59.06%|
+|[Lab06](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab06_iclab065> "Mycode/Lab06")|Huffman Code Operation|60|77.95%|
+|[Lab07](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab07_iclab065> "Mycode/Lab07")|Matrix Multiplication with Clock Domain Crossing|58|74.80%|
+|[Lab08](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab08_iclab065> "Mycode/Lab08")|Design: Tea House|NA|66.14%|
+|[Lab09](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab09_iclab065> "Mycode/Lab09")|Verification: Tea House|1|66.14%|
+|[Lab10](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab10_iclab065> "Mycode/Lab10")|Formal Verification|NA|76.38%|
+|[Lab11](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab11_iclab065> "Mycode/Lab11")|Low power design: Siamese Neural Network|4|67.72%|
+|[Lab12](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab12_iclab065> "Mycode/Lab12")|APR: Matrix convolution, max pooling and transposed convolution|3|68.50%|
+|[Lab13](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab13_iclab065> "Mycode/Lab13")|Train Tour APRII|NA|68.50%|
+|[Online Test](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/OT_iclab065> "Mycode/OT")|Infix to prefix convertor and prefix evaluation|NA|2.36%|
+|[Midtern Project](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Midterm_Project_iclab065> "Mycode/MP")|Maze Router Accelerator|53|68.50%|
+|[Final Project](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project> "Mycode/FP")|single core CPU|3|67.72%|
 
 ## 前言
 雖然網路上已經有非常非常多關於這門課程的評價以及心得文，但是我覺得我的身份比較特別，再加上這一路上踩過不少別人沒有遇到的坑，所以打算用不同的角度詮釋一下這門課程的價值，也記錄一下不是天才的我是怎麼活過這學期的，姑且算是一個窺視孔，讓有遠大抱負的學弟妹們可以好好衡量自己是否真的準備好了，以及理性的評估這門課程的價值。
