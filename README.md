@@ -125,7 +125,7 @@
 |[Lab12](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab12_iclab065> "Mycode/Lab12")|APR: Matrix convolution, max pooling and transposed convolution|3|
 |[Lab13](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab13_iclab065> "Mycode/Lab13")|Train Tour APRII|NA|
 |[Online Test](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/OT_iclab065> "Mycode/OT")|Infix to prefix convertor and prefix evaluation|NA|
-|[Midtern Project](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Midterm_Project_iclab065>"Mycode/MP")|Maze Router Accelerator|53|
+|[Midtern Project](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Midterm_Project_iclab065> "Mycode/MP")|Maze Router Accelerator|53|
 |[Final Project](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project> "Mycode/FP")|single core CPU|3|
 
 ## 前言
