@@ -58,7 +58,6 @@
 - 授課語言：英文
 >*退選人數是用期末考缺考人數估計*
 
-
 >*每人調分幅度未必相同，僅供參考*
 
 >*期中期末考無額外加分*
@@ -110,10 +109,10 @@
 |Lecture13|APR II: IR-Drop Analysis|
 
 ## 實驗總覽
-| Lab | Topic | Link |
+| Lab | Topic | RANK |
 |:--|:--:|:--|
-|Lab01|Code Calculator|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab065> "Mycode/Lab01")|
-|Lab02|Enigma Machine|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab02_iclab065> "Mycode/Lab02")|
+|[Lab01](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab01_iclab065> "Mycode/Lab01")|Code Calculator|21|
+|[Lab02](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab02_iclab065> "Mycode/Lab02")|Enigma Machine|16|
 |Lab03|AXI-SPI DataBridge|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab03_iclab065> "Mycode/Lab03")|
 |Lab04|Convolution Neural Network|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab04_iclab065> "Mycode/Lab04")|
 |Lab05|Matrix convolution, max pooling and transposed convolution|[Link](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab05_iclab065> "Mycode/Lab05")|
