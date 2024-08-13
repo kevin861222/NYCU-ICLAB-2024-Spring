@@ -85,13 +85,13 @@
 
 ## 課程介紹
 ##### 課程目標
-```
+
 This course aims to convey the senior and graudated EE students techniques to design the VLSI chips using state-of-the-art CAD tools. In addition to learning CAD tools for performance-driven and cost-effective IC designs, a top-down design flow and related environment will also be addressed. Upon completion of the course, the student will be able to design the integrated circuits and systems based on standard cell library as well as full-custom layout approaches. As such he/she will be able to work in a team of designers or stand alone.
 The course starts from system design specs of an application which demands the need of developing specific hardwares or application specific integrated circuits (ASIC) or application processors. Then followed by the presentation of architectural proposals, an optimal architecture leading to performance-driven and cost-effective realization can be derived based on both sampling rate and system clock rate. With the support of Verilog-HDL, designers can describe their designs either in behavioral level or structural level. Before going down to the lower level design, one has to do initial floorplan to estimate both routing style and module aspect ratio which provide some area constraints for later designs. Then the partitioned blocks can be conducted hierarchically and with the support of synthesis as well as P&R routing tools, physical layout can easily be achieved if cell-based design approach is exploited. Finally through layout verification and post-layout simulation, the design can be verified before fabrication.
 
 本課程旨在教導高年級及碩士班之電子工程學生使用最先進 CAD 工具設計 VLSI 晶片的技術。本課程學生須具備電腦輔助設計(CAD)工具之使用能力。完成課程後，學生將能夠根據標準單元庫以及全客製化佈局方法設計積體電路和系統。因此，他/她將能夠在設計師團隊中工作或單獨工作。
 本課程從應用程式的系統設計規格開始，這些應用程式需要開發特定的硬體或特定應用積體電路 (ASIC) 或應用處理器。接下來是架構提案的介紹，可根據取樣率和系統時脈率來推導出最佳架構，以達到效能驅動和成本效益的實現。在 Verilog-HDL 的支援下，設計人員可以在行為層級或結構層級描述他們的設計。在進入較低層次的設計之前，設計人員必須先進行 floorplan 設計，以估算路由方式和模組寬高比，為後續設計提供一些面積限制。然後，可以分層進行區塊分割，在合成以及 APR 工具的支援下，如果採用基於單元的設計方法，則可以輕鬆實現實體佈局。最後，透過佈局驗證和佈局後模擬，可以在製造前驗證設計。
-```
+
 
 ##### 課程內容
 | Lecture | Topic |
