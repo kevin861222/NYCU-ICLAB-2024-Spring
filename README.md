@@ -145,7 +145,7 @@ The course starts from system design specs of an application which demands the n
 - 2學期 FPGA 應用相關的大學部專題 
 - 張添烜教授數位電路與系統的YT影片
 
-##### 技能樹
+##### 修課前技能樹
 - 通透 Verilog 
 - 略懂 System Verilog <br>
 -- 整學期會有兩個 Lab 使用 System Verilog
