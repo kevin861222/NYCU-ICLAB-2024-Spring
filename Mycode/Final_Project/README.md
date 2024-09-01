@@ -1,3 +1,4 @@
+## single core CPU with domain specific IP
 ### Performance
 - Clock Period : 3.9 ns
 - Total Latency : 9166 cycles for 1000 patterns
@@ -7,7 +8,7 @@
 - Performance : (Total Cycle x Clock Period)<sup>3</sup> x Core area = 4.907 E+21
 - Rank : 3 / 127
 
-### Final project 實驗概述
+### 實驗概述
 1. 實作帶有特化 IP 的 single core CPU 。
 2. 涵蓋驗證以及從 RTL 到 APR 端的設計，須通過 post-sim 驗證。 
 3. 特化 IP 為 Determinent 。
