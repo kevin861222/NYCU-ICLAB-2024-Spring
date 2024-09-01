@@ -1,7 +1,7 @@
 ## single core CPU with domain specific IP
 ### Performance
 - Clock Period : 3.9 ns
-- Total Latency : 9166 cycles for 1000 patterns
+- Total Latency : 9166 cycles for 1000 instructions
 - RTL Area (03_gate_sim) : 491881.4081  μ𝑚<sup>2 </sup>
 - Core Area (06_post_sim) : 703267.488  μ𝑚<sup>2</sup>
 - Memory Area :68199.14844 μ𝑚<sup>2</sup>
