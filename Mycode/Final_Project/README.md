@@ -47,6 +47,16 @@
     > e. branch loop ，也就是新的 pc 等同舊的 pc ，或是往回跳但 CPU reg 數值未被更動，造成那條 branch 指令永遠成立 (助教說這有可能發生)<br>
     > f. branch 跳出 preload 範圍<br>
 
+### APR
+
+![截圖 2024-09-26 上午8 05 05](https://github.com/user-attachments/assets/1fba8da0-2394-4905-9736-5be39f6ff79c)
+
+
+![截圖 2024-09-26 上午8 05 17](https://github.com/user-attachments/assets/26a90b92-c60b-4a5e-90d7-b6df262d8e62)
+
+
+
+
 
 ### 其他叮囑
 1. 最後一哩路，加油。
