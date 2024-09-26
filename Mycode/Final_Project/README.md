@@ -6,7 +6,7 @@
 - Core Area (06_post_sim) : 703267.488  μ𝑚<sup>2</sup>
 - Memory Area :68199.14844 μ𝑚<sup>2</sup>
 - Performance : (Total Cycle x Clock Period)<sup>3</sup> x Core area = 4.907 E+21
-- Rank : 3 / 127
+- Rank : 3 / 127 
 
 ### 實驗概述
 1. 實作帶有特化 IP 的 single core CPU 。
