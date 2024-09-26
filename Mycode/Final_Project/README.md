@@ -1,4 +1,4 @@
-## single core CPU with domain specific IP
+## single core CPU with domain-specific IP
 ### Performance
 - Clock Period : 3.9 ns
 - Total Latency : 9166 cycles for 1000 instructions
