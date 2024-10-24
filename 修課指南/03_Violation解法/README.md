@@ -72,6 +72,15 @@ end
 
 這些都還是解不掉，再次請您移步至土地公廟。
 
+#### 4. 03 模擬遇到 setup / hold time violation
+照理來說 02 合成會檢查 timing ，但還是有機率在 03 遇上
+
+![image](https://github.com/user-attachments/assets/6728d8fd-2de6-4a9b-9768-bb7e422d19eb)
+
+1. 請先檢查是否忘記修改 pattern.v 中的 CYCLE_TIME
+2. 確認 02/syn.tcl 正確 
+
+
 
 ### 總結
 03 error 最棘手的問題就是電路寫錯，但是 01 沒有驗出來，傻傻地以為是 coding style 問題，改半天依然沒有解決。
