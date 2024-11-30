@@ -7,6 +7,7 @@
 >
 > 更新日誌：
 > 10.22 03_Violation解法
+> 11.30 lab12/chip_shell.v
 
 ## 資料夾指引
 ``` bash
