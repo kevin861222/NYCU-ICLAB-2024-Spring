@@ -1,6 +1,5 @@
 # NYCU-ICLAB-2024-Spring 修課心得 & 修課指南
-
-
+拿高分、verilog 相關的資料，我彙整到 "" 
 
 ## 資料夾指引
 ``` bash
@@ -14,15 +13,6 @@
 |   |   README.md 
 |   |
 |   +---修課前準備事項
-|   |   |   README.md
-|   | 
-|   +---Verilog_小知識
-|   |   |   README.md    
-|   | 
-|   +---Verilog_黑魔法
-|   |   |   README.md
-|   | 
-|   +---ICLAB_高分攻略
 |   |   |   README.md
 |   | 
 |   +---03_Violation解法
