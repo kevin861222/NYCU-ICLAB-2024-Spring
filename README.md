@@ -1,14 +1,6 @@
 # NYCU-ICLAB-2024-Spring 修課心得 & 修課指南
-> 我正在緩慢更新中
->
-> 勘誤 & 疑難雜症歡迎聯繫我 kevin861222@gmail.com
->
-> 幫我按 star 是我持續更新的動力
->
-> 更新日誌：
-> 10.22 03_Violation解法
-> 
-> 11.30 lab12/chip_shell.v
+
+
 
 ## 資料夾指引
 ``` bash
