@@ -1,5 +1,5 @@
 # NYCU-ICLAB-2024-Spring 修課心得 & 修課指南
-拿高分、verilog 相關的資料，我彙整到 "" 
+
 
 ## 資料夾指引
 ``` bash
