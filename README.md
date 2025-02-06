@@ -1,7 +1,7 @@
 # NYCU-ICLAB-2024-Spring 修課心得 & 修課指南
 
-歡迎向我提問，有任何好奇都可以發布到[Issues](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/issues/1> "Issues") 
-[Lab03](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Lab03_iclab065> "Mycode/Lab03")
+歡迎向我提問，有任何好奇都可以發布到 [Issues](<https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/issues/1> "Issues") 
+
 
 ## 資料夾指引
 ``` bash
